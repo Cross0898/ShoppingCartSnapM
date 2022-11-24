@@ -1,0 +1,11 @@
+.announcementBar{
+    /* position: absolute; */
+    /* z-index: 1; */
+    background-color: #ECE5F5;
+    height: 30px;
+    width: 100%;
+  }
+.announcementText{
+    color: white;
+    font-size: 30px !important;
+  }
